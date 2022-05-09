@@ -1,0 +1,18 @@
+tr:nth-child(1)
+{
+    background:black;
+    color: rgb(7, 137, 251) !important;
+    font-size: 22px !important;
+    height: 30px;
+}
+tr:nth-child(even)
+{
+    background: gray;
+}
+tr:nth-child(odd)
+{
+    background: rgb(79, 237, 6);
+}
+body{
+    background-color: palevioletred;
+}
